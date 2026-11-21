@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mohsen Abouelyazed</h1>
-<h3 align="center">An Industrial Automation and Controls Engineer, Currently Completing the Professional Training Program (9-Month) at ITI (Intake 46).</h3>
+<h3 align="center">An Industrial Automation and Controls Engineer, Recently Graduated ITI, Professional Training Program (9-Month, Intake 46).</h3>
 
 - 🔭 I’m currently working on **AUTO-PLC**
 
